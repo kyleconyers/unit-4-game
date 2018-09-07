@@ -1,0 +1,83 @@
+.firstbox{
+    Display: inline-block;
+    background-color: yellow;
+    color: white;
+    height: 30px;
+    width: 220px;
+    margin: 5px 5px 5px 5px;
+
+    
+}
+.test{
+    color: purple;
+}
+.instructionsbox{
+    background-color: burlywood;
+    height: 200px;
+    width: 260px;
+    margin: 5px 5px 5px 5px;
+}
+.inlinewins{
+    height: 80px;
+}
+.targetbox{
+
+    float: left;
+    top:0px;
+    display: inline-block;
+    background-color: green;
+    height: 70px;
+    width: 250px;
+    margin: 5px 5px 5px 5px;
+}
+.targetPrint{
+    color: blue;
+}
+.winsbox{
+    display: inline-block;
+    background-color: blue;
+    height: 70px;
+    width: 200px;
+    margin: 5px 5px 5px 5px;
+}
+.selectos{
+    height: 50px;
+    width: 50px;
+}
+.image{
+    display: inline;
+    height: 50px;
+    width: 50px;
+    margin: 5px 5px 5px 5px;
+}
+.crystal{
+    display: inline-block;
+    height: 150px;
+    width: 175px;
+
+}
+.diamond{
+}
+.ruby{
+}
+.topaz{
+}
+.emrald{
+}
+
+.notifier{
+    background-color: rgb(97, 160, 136);
+    height: 20px;
+    width: 150px;
+    margin: 5px 5px 5px 5px;
+}
+.countbox{
+    background-color: rgb(97, 160, 136);
+    height: 70px;
+    width: 150px;
+    margin: 5px 5px 5px 5px;
+}
+.scorePad{
+    
+    top: 0px;
+}
